@@ -15,7 +15,7 @@ function jealous() {
 
 
 function angry() {
-
+ document.getElementById("message").textContent = "Mood Detected Angry"; document.getElementById("page").style.background = "red";
 
     
 }
