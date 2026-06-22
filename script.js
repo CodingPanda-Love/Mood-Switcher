@@ -19,3 +19,5 @@ function angry() {
 
     
 }
+
+function anxious() { document.getElementById("message").textContent = "Mood Detected Anxious"; document.getElementById("page").style.background = "yellow"; }
